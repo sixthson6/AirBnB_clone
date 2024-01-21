@@ -13,4 +13,5 @@
 !/models/*
 !/models/engine
 !/models/engine/*
+!/web_static/*
 *main.py
